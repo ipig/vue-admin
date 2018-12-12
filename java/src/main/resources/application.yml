@@ -1,0 +1,10 @@
+server:
+ port: 7070
+spring:
+ datasource:
+  driver-class-name: com.mysql.jdbc.Driver
+  url: jdbc:mysql://39.105.210.249:3306/app
+  #url: jdbc:mysql://127.0.0.1:9207/app
+  username: root
+  password: uAiqwVwjJ8-i
+  #password: 1
